@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.coolweather.app.R;
+import com.coolweather.app.db.CoolWeatherDB;
 import com.coolweather.app.model.City;
-import com.coolweather.app.model.CoolWeatherDB;
 import com.coolweather.app.model.County;
 import com.coolweather.app.model.Province;
 import com.coolweather.app.util.HttpCallbackListener;
